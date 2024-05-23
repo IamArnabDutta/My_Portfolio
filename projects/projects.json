@@ -42,7 +42,7 @@
   },
   {
     "name": "Blood Bank MERN",
-    "desc": "The MERN Stack Blood Bank Project  includes features such as donor registration, blood requests, inventory management, user authentication, and search functionality.",
+    "desc": "The MERN Stack Blood Bank Project includes features such as donor registration, blood requests, inventory management, user authentication.",
     "image": "Blood",
     "category": "mern",
     "links": {
