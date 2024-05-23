@@ -68,7 +68,7 @@
     "image": "port",
     "category": "basicweb",
     "links": {
-      "view": "https://app.netlify.com/sites/myportfolio-123-456/overview",
+      "view": "https://myportfolio-1234-5678.netlify.app/",
       "code": "https://github.com/IamArnabDutta/Portfolio"
     }
   }
