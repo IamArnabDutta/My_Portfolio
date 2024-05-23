@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Admin Portal",
+    "desc": "used HTML, CSS, and JavaScript to make it work smoothly. Users can explore data with cool charts and even request leave or report attendance. This dashboard combines web development and data visualization for an interactive experience.",
+    "image": "adminportal",
+    "category": "basicweb",
+    "links": {
+      "view": "https://stellular-puppy-53d7fb.netlify.app/",
+      "code": "https://github.com/IamArnabDutta/Admin-Dashboard"
+    }
+  },
+  {
+    "name": "Quiz App",
+    "desc": "React-Trivia-Quiz an interactive web-based trivia quiz game built with React",
+    "image": "quiz",
+    "category": "react",
+    "links": {
+      "view": "https://roaring-squirrel-92c811.netlify.app/",
+      "code": "https://github.com/IamArnabDutta/QuizGenius"
+    }
+  },
+  {
+    "name": "Library Management System",
+    "desc": "Online Library Management System, built using MongoDB, Node.js, and Express.js, offers a comprehensive solution for library operations. Users can easily search for books, and upon finding the desired title, they can submit a request for the book. Administrators have the authority to approve these requests.",
+    "image": "Lb",
+    "category": "fullstack",
+    "links": {
+      "view": "https://github.com/IamArnabDutta/Library-Management-System",
+      "code": "https://github.com/IamArnabDutta/Library-Management-System"
+    }
+  },
+  
+  {
+    "name": "Vehicle Rental System",
+    "desc": "Created a secure platform with JWT based user admin authentication.And implemented interactive pop up messaging for improved user engagement , Enabled admins to manage vehicles for rentals and users to book and modify bookings. And utilized Google MapsAPI for automated distance calculations",
+    "image": "Vehicle",
+    "category": "mern",
+    "links": {
+      "view": "https://ease-ride.vercel.app/",
+      "code": "https://github.com/IamArnabDutta/vehicle-rental-system"
+    }
+  },
+  {
+    "name": "Blood Bank MERN",
+    "desc": "The MERN Stack Blood Bank Project is a web application that leverages MongoDB, Express.js, React.js, and Node.js.It includes features such as donor registration, blood requests, inventory management, user authentication, and search functionality.",
+    "image": "Blood",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/IamArnabDutta/Blood-Bank-",
+      "code": "https://github.com/IamArnabDutta/Blood-Bank-"
+    }
+  },
+  {
+    "name": "Blog Website",
+    "desc": "Created a blog website using HTML , CSS , NodeJS & MongoDB for reading and writing posts.",
+    "image": "Blog",
+    "category": "fullstack",
+    "links": {
+      "view": "https://www.linkedin.com/feed/update/urn:li:activity:7156509803035381760/",
+      "code": "https://github.com/IamArnabDutta/Blog-Website"
+    }
+  },
+ 
+ 
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "port",
+    "category": "basicweb",
+    "links": {
+      "view": "https://app.netlify.com/sites/myportfolio-123-456/overview",
+      "code": "https://github.com/IamArnabDutta/Portfolio"
+    }
+  }
+  
+]
