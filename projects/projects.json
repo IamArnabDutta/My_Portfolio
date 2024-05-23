@@ -1,7 +1,7 @@
 [
   {
     "name": "Admin Portal",
-    "desc": "used HTML, CSS, and JavaScript to make it work smoothly. Users can explore data with cool charts and even request leave or report attendance. This dashboard combines web development and data visualization for an interactive experience.",
+    "desc": "used HTML, CSS, and JavaScript. This dashboard combines web development and data visualization for an interactive experience.",
     "image": "adminportal",
     "category": "basicweb",
     "links": {
@@ -21,7 +21,7 @@
   },
   {
     "name": "Library Management System",
-    "desc": "Online Library Management System, built using MongoDB, Node.js, and Express.js, offers a comprehensive solution for library operations. Users can easily search for books, and upon finding the desired title, they can submit a request for the book. Administrators have the authority to approve these requests.",
+    "desc": "Online Library Management System, built using MongoDB, Node.js, and Express.js, offers a comprehensive solution for library operations. ",
     "image": "Lb",
     "category": "fullstack",
     "links": {
@@ -32,7 +32,7 @@
   
   {
     "name": "Vehicle Rental System",
-    "desc": "Created a secure platform with JWT based user admin authentication.And implemented interactive pop up messaging for improved user engagement , Enabled admins to manage vehicles for rentals and users to book and modify bookings. And utilized Google MapsAPI for automated distance calculations",
+    "desc": "  Enabled admins to manage vehicles for rentals and users to book and modify bookings",
     "image": "Vehicle",
     "category": "mern",
     "links": {
@@ -42,7 +42,7 @@
   },
   {
     "name": "Blood Bank MERN",
-    "desc": "The MERN Stack Blood Bank Project is a web application that leverages MongoDB, Express.js, React.js, and Node.js.It includes features such as donor registration, blood requests, inventory management, user authentication, and search functionality.",
+    "desc": "The MERN Stack Blood Bank Project  includes features such as donor registration, blood requests, inventory management, user authentication, and search functionality.",
     "image": "Blood",
     "category": "mern",
     "links": {
